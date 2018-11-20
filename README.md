@@ -1,6 +1,6 @@
 # PSSE-via-DNNs
 
-A Keras implementation of our paper: L.  Zhang, G. Wang, and G. B. Giannakis, “Real-time power system state estimation and forecasting via deep neural networks,” arXiv:1811.06146, Nov. 2018. 
+A Keras implementation of our paper: L.  Zhang, G. Wang, and G. B. Giannakis, “Real-time power system state estimation and forecasting via deep neural networks,” arXiv:1811.06146, Nov. 2018. [Online] available: https://arxiv.org/abs/1811.06146
  
 If you find the code useful, please cite our paper.
 The data for 118-bus system can be downloaded from 
